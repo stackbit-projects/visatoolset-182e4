@@ -22,14 +22,12 @@ sections:
       - title: Professional Nomad
         subtitle: For global nomad moving countries frequently
         price: $35/m
-        details: |
+        details: |+
           Everything in basic plus:
 
-          *   Curabitur non nunc mollis
-          *   Duis a purus nec ligula pellentesque dolor
-          *   Pellentesque sit amet
-          *   Fusce tempus mi vitae luctus
-          *   Nullam sollicitudin ante
+          *   Reminder for renewal
+          *   Action plans to prepare for future visas
+
         highlight: true
         actions:
           - label: Order Now
