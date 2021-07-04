@@ -61,7 +61,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/intro.jpg
+        image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
     type: section_features
 seo:
   title: ''
