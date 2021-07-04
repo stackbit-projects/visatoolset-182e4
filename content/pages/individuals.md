@@ -27,17 +27,13 @@ sections:
         type: feature_item
         image: /images/6_thumb.jpg
       - title: Connect
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Expertise
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          We connect you with the right expertise who had experience dealing
+          with the visa you are looking for, so you don't have to do the heavy
+          lifting yourself. 
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
