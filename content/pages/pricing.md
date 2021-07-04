@@ -10,11 +10,11 @@ sections:
       - title: Basic
         subtitle: For individuals' single-use
         price: $50
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |
+          *   Visa eligibility calculator
+          *   Visa suggestions based on your profile
+          *   Connect you to the right expertise
+          *   Single platform to manage the process & documents
         actions:
           - label: Order Now
             url: /signup
