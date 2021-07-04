@@ -25,10 +25,10 @@ sections:
       - title: Help employers expedite process
         image: /images/Screen_Shot_2021-07-04_at_10.38.37_pm-removebg-preview.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          With VisaToolset, employers can manage current and future employees
+          visa application in a single platform. Populate emails and the type of
+          visa you're lodging, and we will kick off the process right away. 
         actions:
           - label: Learn More
             url: /employers
