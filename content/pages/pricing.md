@@ -38,13 +38,12 @@ sections:
       - title: Cool Company
         subtitle: For companies hiring talents overseas
         price: $55/m
-        details: |
+        details: |+
           Everything in professional nomad plus:
 
-          *   Vestibulum non eros quis
-          *   Aenean iaculis lorem
-          *   Mauris eleifend sapien
-          *   Phasellus lobortis risus laoreet quam
+          *   Business account to manage employees visa status in real-time
+          *   Notifications when visa is obtained
+
         actions:
           - label: Order Now
             url: /signup
