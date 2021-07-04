@@ -67,7 +67,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to get started?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Start your 14-days free trial now.
     actions:
       - label: Try for free
         url: /signup
