@@ -25,7 +25,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/6_thumb.jpg
+        image: /images/pexels-cottonbro-5076531.jpg
       - title: Connect
         content: >
           ## Expertise
