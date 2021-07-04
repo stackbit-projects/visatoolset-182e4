@@ -11,7 +11,7 @@ sections:
       the nitty gritty processes, so you can focus on what matters most.
     actions:
       - label: Try for free
-        url: /pricing
+        url: /
         style: primary
         has_icon: false
   - section_id: features
