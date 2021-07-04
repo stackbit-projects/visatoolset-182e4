@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: Cool Company
-        subtitle: For companies hiring talents overseas
+        subtitle: 'For companies hiring talents overseas, charged monthly'
         price: $55/m
         details: |+
           Everything in professional nomad plus:
