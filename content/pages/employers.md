@@ -15,17 +15,9 @@ sections:
     background: gray
     features:
       - title: Populate
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Provide us with your employees' email address and the visa you
+          intended to lodge. 
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
