@@ -30,7 +30,7 @@ sections:
         actions: []
         type: feature_item
         image: /images/6_thumb.jpg
-      - title: lorem-ipsum
+      - title: Connect
         content: >-
           ## Lorem ipsum
 
