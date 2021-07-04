@@ -21,7 +21,7 @@ sections:
       We provide tools for individuals and employers to secure a valid visa to
       stay or work in their desired country.
     features:
-      - title: A single place for companies to manage the process
+      - title: Single source of truth to expedite process
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
