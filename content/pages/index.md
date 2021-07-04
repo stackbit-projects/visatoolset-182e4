@@ -31,7 +31,7 @@ sections:
           consequat ex.
         actions:
           - label: Learn More
-            url: /features
+            url: /employers
             style: secondary
             has_icon: true
             icon: arrow-right
