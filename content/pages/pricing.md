@@ -16,7 +16,7 @@ sections:
           *   Connect you to the right expertise
           *   Single platform to manage the process & documents
         actions:
-          - label: Order Now
+          - label: Pre-order Now
             url: /signup
             style: secondary
       - title: Professional Nomad
