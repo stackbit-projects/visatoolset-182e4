@@ -46,7 +46,7 @@ sections:
         actions: []
         type: feature_item
         image: /images/3.jpg
-      - title: lorem-ipsum
+      - title: Get notified
         content: >-
           ## Lorem ipsum
 
