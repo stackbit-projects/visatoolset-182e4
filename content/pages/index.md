@@ -39,10 +39,9 @@ sections:
       - title: Connect individuals to the right expertise
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          With our tools, individuals can use our tool to connect with the right
+          expertise for a smooth process.
         actions:
           - label: Learn More
             url: /individuals
