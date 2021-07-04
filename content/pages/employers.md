@@ -23,17 +23,11 @@ sections:
         type: feature_item
         image: /images/pexels-cytonn-photography-955389.jpg
       - title: Login
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Employees can login with their emails with a temporary password, in
+          which we then guide them through the steps they need to follow through
+          before you can officially submit an application.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
