@@ -45,7 +45,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/3.jpg
+        image: /images/pexels-miguel-á-padriñán-1591062.jpg
       - title: Get notified
         content: >-
           ## Lorem ipsum
