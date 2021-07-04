@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Professional Nomad
         subtitle: 'For global nomad moving countries frequently, charged monthly'
-        price: $35/user
+        price: $45/user
         details: |+
           Everything in basic plus:
 
