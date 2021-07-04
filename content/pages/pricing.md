@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Cool Company
         subtitle: For companies hiring talents overseas
-        price: $149/m
+        price: $55/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
