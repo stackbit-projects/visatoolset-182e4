@@ -37,7 +37,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/10_thumb.jpg
+        image: /images/surface-HJgaV1qjHS0-unsplash.jpg
       - title: Act
         content: >
           ## Stress-free
