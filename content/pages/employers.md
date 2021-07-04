@@ -33,17 +33,11 @@ sections:
         type: feature_item
         image: /images/pexels-miguel-á-padriñán-1591062.jpg
       - title: Get notified
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          We let you know when everything is done, so you don't have to check-in
+          manually. You can also login to our system to check the status in
+          real-time to support your employees throughout the process.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
