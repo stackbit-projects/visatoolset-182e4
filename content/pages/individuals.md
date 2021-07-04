@@ -49,7 +49,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/11_thumb.jpg
+        image: /images/sigmund-nv-ZYsvjIcE-unsplash.jpg
     type: section_features
 seo:
   title: ''
