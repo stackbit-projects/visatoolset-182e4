@@ -10,7 +10,7 @@ sections:
     faq_items: []
     type: section_faq
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: How it works
     subtitle: lorem-ipsum
     background: gray
     features:
