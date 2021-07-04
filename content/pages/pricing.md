@@ -38,11 +38,13 @@ sections:
       - title: Cool Company
         subtitle: For companies hiring talents overseas
         price: $55/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: |
+          Everything in professional nomad plus:
+
+          *   Vestibulum non eros quis
+          *   Aenean iaculis lorem
+          *   Mauris eleifend sapien
+          *   Phasellus lobortis risus laoreet quam
         actions:
           - label: Order Now
             url: /signup
