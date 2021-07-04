@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Leap of faith
         subtitle: For individuals' single-use
-        price: $5/m
+        price: $50
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
