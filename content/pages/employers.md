@@ -14,7 +14,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: Populate
         content: >-
           ## Lorem ipsum
 
