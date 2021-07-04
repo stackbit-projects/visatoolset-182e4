@@ -75,34 +75,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    background: gray
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    hide_labels: false
-    form_fields:
-      - input_type: email
-        name: Email address
-        label: Email
-        default_value: Your email
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: lorem-ipsum
-    type: section_contact
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
