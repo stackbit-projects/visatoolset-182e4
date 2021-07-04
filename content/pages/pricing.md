@@ -35,7 +35,7 @@ sections:
             style: primary
       - title: Cool Company
         subtitle: 'For companies hiring talents overseas, charged monthly'
-        price: $55/m
+        price: $55/user
         details: |+
           Everything in professional nomad plus:
 
