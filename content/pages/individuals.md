@@ -15,17 +15,13 @@ sections:
     background: gray
     features:
       - title: Check
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Eligibility calculator
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Instead of going through pages and pages of documents to check if you
+          are eligible, our calculator tell you which visas you are eligible for
+          based on your profile. 
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
