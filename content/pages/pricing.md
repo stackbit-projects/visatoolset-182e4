@@ -8,7 +8,7 @@ sections:
     subtitle: You can have a separate pricing page or list everything on the home page.
     pricing_plans:
       - title: Leap of faith
-        subtitle: For small businesses
+        subtitle: For
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
