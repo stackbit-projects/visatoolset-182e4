@@ -23,7 +23,7 @@ sections:
       stay or work in their desired country.
     features:
       - title: Single source of truth to expedite process
-        image: images/feature1.png
+        image: /images/Screen_Shot_2021-07-04_at_10.38.37_pm-removebg-preview.png
         image_alt: App preview on a phone and tablet
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
