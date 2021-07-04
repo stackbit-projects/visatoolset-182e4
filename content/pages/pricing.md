@@ -8,7 +8,7 @@ sections:
     subtitle: Transparent & flexible plans to cater for different needs.
     pricing_plans:
       - title: Basic
-        subtitle: For individuals' single-use
+        subtitle: 'For individuals'' single-use, pay once'
         price: $50
         details: |
           *   Visa eligibility calculator
