@@ -10,7 +10,7 @@ sections:
       Let us take care of eligibility, documents preparations, and figuring out
       the nitty gritty processes, so you can focus on what matters most.
     actions:
-      - label: Learn More
+      - label: Try for free
         url: /features
         style: primary
         has_icon: false
