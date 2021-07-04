@@ -12,7 +12,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: primary
+        style: secondary
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
