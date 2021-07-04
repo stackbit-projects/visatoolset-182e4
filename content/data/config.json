@@ -39,7 +39,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/visats.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "We work hard to elevate the frictions for visa applications.\n"
