@@ -33,7 +33,7 @@ sections:
           - label: Order Now
             url: /signup
             style: primary
-      - title: Enterprise
+      - title: Cool Company
         subtitle: For companies hiring talents overseas
         price: $149/m
         details: |-
