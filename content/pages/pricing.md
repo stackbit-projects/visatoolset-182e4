@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional Nomad
-        subtitle: For global nomad moving countries frequently
+        subtitle: 'For global nomad moving countries frequently, charged monthly'
         price: $35/m
         details: |+
           Everything in basic plus:
