@@ -11,7 +11,7 @@ sections:
     type: section_faq
   - section_id: lorem-ipsum
     title: How it works
-    subtitle: lorem-ipsum
+    subtitle: 3 simple steps to get started
     background: gray
     features:
       - title: Populate
