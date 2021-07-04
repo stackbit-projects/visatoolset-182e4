@@ -22,7 +22,7 @@ sections:
       We provide tools for individuals and employers to secure a valid visa to
       stay or work in their desired country.
     features:
-      - title: Single source of truth to expedite process
+      - title: Help employers expedite process
         image: /images/Screen_Shot_2021-07-04_at_10.38.37_pm-removebg-preview.png
         image_alt: App preview on a phone and tablet
         content: >-
