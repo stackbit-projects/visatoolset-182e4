@@ -18,8 +18,8 @@ sections:
     background: gray
     title: How it works
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      We provide tools for individuals and employers to secure a valid visa to
+      stay or work in their desired country.
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
