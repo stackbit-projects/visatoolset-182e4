@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Professional Nomad
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: $35/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
