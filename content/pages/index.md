@@ -14,7 +14,7 @@ sections:
         url: /
         style: primary
         has_icon: false
-  - section_id: features
+  - section_id: how-it-works
     type: section_features
     background: gray
     title: How it works
