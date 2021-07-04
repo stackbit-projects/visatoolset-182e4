@@ -30,7 +30,7 @@ sections:
         actions: []
         type: feature_item
         image: /images/11.jpg
-      - title: lorem-ipsum
+      - title: Login
         content: >-
           ## Lorem ipsum
 
