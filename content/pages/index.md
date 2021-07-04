@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/hero.png
+    image: '/images/[removal.ai]_tmp-60e1bfb5dc412.png'
     image_alt: App preview
     title: We offer tools to help you navigate visa nightmares.
     content: >
