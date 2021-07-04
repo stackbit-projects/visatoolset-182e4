@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Your DIY tool to help navigate visa nightmares.
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Let us take care of eligibility, documents preparations, and figuring out
+      the nitty gritty processes, so you can focus on what matters most.
     actions:
       - label: Learn More
         url: /features
