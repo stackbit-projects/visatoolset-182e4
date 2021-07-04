@@ -17,7 +17,7 @@ sections:
   - section_id: how-it-works
     type: section_features
     background: gray
-    title: How it works
+    title: Why VisaToolset
     subtitle: >-
       We provide tools for individuals and employers to secure a valid visa to
       stay or work in their desired country.
