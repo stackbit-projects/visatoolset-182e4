@@ -29,7 +29,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: /images/11.jpg
+        image: /images/pexels-cytonn-photography-955389.jpg
       - title: Login
         content: >-
           ## Lorem ipsum
