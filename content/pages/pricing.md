@@ -43,7 +43,7 @@ sections:
           *   Notifications when visa is obtained
 
         actions:
-          - label: Order Now
+          - label: Pre-order Now
             url: /signup
             style: secondary
 seo:
