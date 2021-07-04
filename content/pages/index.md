@@ -67,7 +67,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Ready to get started?
-    subtitle: Start your 14-days free trial now.
+    subtitle: Register now for beta access to get 50% OFF when we officially launch.
     actions:
       - label: Try for free
         url: /signup
