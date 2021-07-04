@@ -7,7 +7,7 @@ sections:
     title: Pricing Plans
     subtitle: Transparent & flexible plans to cater for different needs.
     pricing_plans:
-      - title: Leap of faith
+      - title: The YOLO
         subtitle: For individuals' single-use
         price: $50
         details: |-
