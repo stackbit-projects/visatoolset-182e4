@@ -20,7 +20,7 @@ sections:
             url: /signup
             style: secondary
       - title: Professional Nomad
-        subtitle: For medium-sized businesses
+        subtitle: For global nomad moving countries frequently
         price: $35/m
         details: |-
           * Curabitur non nunc mollis
