@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/coverimage1.png
     image_alt: App preview
-    title: We offer tools to help you navigate visa nightmares.
+    title: We offer tools to eliminate visa nightmares.
     content: >
       Let us take care of eligibility, documents preparations, and figuring out
       the nitty gritty processes, so you can focus on what matters most.
