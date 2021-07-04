@@ -75,18 +75,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    reviews:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
-    type: section_reviews
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
