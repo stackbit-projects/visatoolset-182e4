@@ -61,6 +61,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: /images/11_thumb.jpg
     type: section_features
 seo:
   title: ''
