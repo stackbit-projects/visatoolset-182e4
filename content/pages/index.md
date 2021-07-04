@@ -69,7 +69,7 @@ sections:
     title: Ready to get started?
     subtitle: Register now for beta access to get 50% OFF when we officially launch.
     actions:
-      - label: Try for free
+      - label: Sign up
         url: /signup
         style: primary
   - section_id: recent-posts
