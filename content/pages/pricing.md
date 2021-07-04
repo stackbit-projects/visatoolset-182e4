@@ -30,7 +30,7 @@ sections:
 
         highlight: true
         actions:
-          - label: Order Now
+          - label: Pre-order Now
             url: /signup
             style: primary
       - title: Cool Company
