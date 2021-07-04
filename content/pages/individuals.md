@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How we help individuals secure visas with minimal headache?
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
