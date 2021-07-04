@@ -9,7 +9,7 @@ sections:
     pricing_plans:
       - title: Basic
         subtitle: For individuals' single-use
-        price: $50/user
+        price: $50
         details: |
           *   Visa eligibility calculator
           *   Visa suggestions based on your profile
