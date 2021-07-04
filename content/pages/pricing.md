@@ -21,7 +21,7 @@ sections:
             style: secondary
       - title: Professional Nomad
         subtitle: For global nomad moving countries frequently
-        price: $35/user
+        price: $35/m
         details: |+
           Everything in basic plus:
 
