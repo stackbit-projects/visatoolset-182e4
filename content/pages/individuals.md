@@ -39,17 +39,13 @@ sections:
         type: feature_item
         image: /images/10_thumb.jpg
       - title: Act
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Stress-free
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Shall you decide to proceed, use our tool to manage the process
+          instead of engaging in back and forth email threads. We help you act
+          fast so you stand a better chance of getting ahead.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
