@@ -3,7 +3,9 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: Secure visa with minimal headache
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Forget about going through all the documentations, emails and Q&As. We
+      make the process easier for you so you can take immediate actions.
     background: gray
     faq_items: []
     type: section_faq
