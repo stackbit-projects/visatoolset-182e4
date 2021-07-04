@@ -95,7 +95,7 @@ sections:
     hide_labels: false
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: Email address
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
