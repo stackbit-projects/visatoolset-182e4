@@ -22,12 +22,14 @@ sections:
       - title: Professional Nomad
         subtitle: For global nomad moving countries frequently
         price: $35/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: |
+          Everything in basic plus:
+
+          *   Curabitur non nunc mollis
+          *   Duis a purus nec ligula pellentesque dolor
+          *   Pellentesque sit amet
+          *   Fusce tempus mi vitae luctus
+          *   Nullam sollicitudin ante
         highlight: true
         actions:
           - label: Order Now
