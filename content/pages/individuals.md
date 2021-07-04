@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Secure visa with minimal headache
     subtitle: lorem-ipsum
     background: gray
     faq_items: []
