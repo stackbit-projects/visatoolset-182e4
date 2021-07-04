@@ -9,6 +9,12 @@ sections:
     background: gray
     faq_items: []
     type: section_faq
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: ''
   description: ''
