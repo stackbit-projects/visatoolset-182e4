@@ -8,7 +8,7 @@ sections:
     subtitle: Simple
     pricing_plans:
       - title: Leap of faith
-        subtitle: For
+        subtitle: For individuals' single-use
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
