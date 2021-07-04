@@ -5,7 +5,7 @@ sections:
     type: section_pricing
     background: gray
     title: Pricing Plans
-    subtitle: Simple
+    subtitle: Transparent & flexible plans to cater for different needs.
     pricing_plans:
       - title: Leap of faith
         subtitle: For individuals' single-use
