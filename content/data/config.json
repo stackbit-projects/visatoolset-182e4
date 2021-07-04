@@ -19,13 +19,13 @@
                 "style": "link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "For employer",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "For employer",
-                "url": "/style-guide",
+                "label": "Pricing",
+                "url": "/pricing",
                 "style": "link"
             },
             {
