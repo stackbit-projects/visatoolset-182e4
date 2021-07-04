@@ -34,7 +34,7 @@ sections:
             url: /signup
             style: primary
       - title: Enterprise
-        subtitle: For very large businesses
+        subtitle: For companies hiring talents overseas
         price: $149/m
         details: |-
           * Vestibulum non eros quis
