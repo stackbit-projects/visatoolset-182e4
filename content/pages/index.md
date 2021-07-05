@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/coverimage1.png
     image_alt: App preview
-    title: Eliminate visa nightmares with our tools
+    title: Eliminate visa nightmares
     content: >
       Let us take care of eligibility, documents preparations, and figuring out
       the nitty gritty processes, so you can focus on what matters most.
